@@ -1,0 +1,20 @@
+.red{
+    color: red;
+}
+
+.blueviolet{
+    color: blueviolet;
+    
+}
+
+#title{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#sub-title{
+    color: blanchedalmond;
+    font-weight: 600;
+}
